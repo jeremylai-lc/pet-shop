@@ -1,6 +1,0 @@
-Django
-golang
-NodeJS
-flask
-express
-spring boot
